@@ -1,5 +1,5 @@
 - Hi, I’m Rohit Datta
-- I’m interested in Backened Development, machine learning & minimal frontend to getting things done
+- I’m interested in Backened Development, machine learning & minimal frontend for getting things done
 - I’m currently Working as a Software Engineer in Brainstation-23
 - How to reach me with dattar321@gmail.com
 
